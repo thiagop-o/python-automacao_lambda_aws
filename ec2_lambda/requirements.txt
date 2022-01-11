@@ -1,0 +1,4 @@
+aws_lambda_context
+botocore
+boto3
+moto
